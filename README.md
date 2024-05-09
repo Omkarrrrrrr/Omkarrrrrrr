@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Omi!!!!!!!!!
 
 Welcome to my GitHub profile! I'm a passionate developer enthusiastic about Java programming and web development. Here's a little about me and what I'm currently working on:
 

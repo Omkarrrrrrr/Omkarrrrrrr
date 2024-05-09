@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer enthusiastic about Java
 - 🌟 I'm also working on web development projects, building responsive websites and web applications using HTML, CSS, and JavaScript.
 
 ## How You Can Reach Me
-- 📫 Feel free to reach out to me via email at [your@email.com].
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to learn more about my professional background and experience.
-- 🌐 Visit my personal website [YourWebsite.com] to see more of my projects and learn about my interests outside of coding.
+- 📫 Feel free to reach out to me via email at ominalawade77@gmail.com
+
 
 ## Looking for Opportunities
 I'm actively seeking opportunities in Java development and web development roles. Whether it's internships, freelance projects, or full-time positions, I'm eager to contribute my skills and grow professionally in the tech industry.

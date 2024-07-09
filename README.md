@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer enthusiastic about Java
 
 💻 **Java Enthusiast**: I love diving deep into Java programming, exploring its features, and building applications that leverage its power.
 
-🌐 **Web Developer**: I'm skilled in HTML, CSS, and JavaScript, and I enjoy creating dynamic and interactive web experiences.
-
 📊 **Data Analyst**: I have completed training in data analytics, enabling me to analyze and interpret complex datasets to drive informed decision-making.
 
 📚 **Lifelong Learner**: I'm constantly seeking to expand my knowledge and skills in software development, particularly in areas like Data Structures & Algorithms, web technologies, and data analytics.

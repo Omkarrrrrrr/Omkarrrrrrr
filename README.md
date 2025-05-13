@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer enthusiastic about Java
 
 💻 **Java Enthusiast**: I love diving deep into Java programming, exploring its features, and building applications that leverage its power.
 
-📊 **Data Analyst**: I have completed training in data analytics, enabling me to analyze and interpret complex datasets to drive informed decision-making.
-
 📚 **Lifelong Learner**: I'm constantly seeking to expand my knowledge and skills in software development, particularly in areas like Data Structures & Algorithms, web technologies, and data analytics.
 
 ## What I'm Working On
@@ -24,10 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer enthusiastic about Java
 
 ## Looking for Opportunities
 
-I'm actively seeking opportunities in Java development, web development, and data analytics roles. Whether it's internships, freelance projects, or full-time positions, I'm eager to contribute my skills and grow professionally in the tech industry.
+I'm actively seeking opportunities in Java development, web development roles. Whether it's internships, freelance projects, or full-time positions, I'm eager to contribute my skills and grow professionally in the tech industry.
 
 If you have any opportunities or would like to collaborate on a project, don't hesitate to get in touch! Let's build something awesome together. 😊
 
 ---
-
-Feel free to adjust any sections as needed!
